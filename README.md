@@ -1,2 +1,2 @@
 # cncf-demos
-demo codes for Cloud Native Computing Foundation projects
+code demos for various Cloud Native Computing Foundation (https://www.cncf.io/) projects
