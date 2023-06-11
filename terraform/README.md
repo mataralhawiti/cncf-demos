@@ -54,8 +54,9 @@ build, change, and manage your infrastructure ==> safe, consistent, and repeatab
 
 ## Initialize your Terraform configuration
 
-```terraform init``
+```terraform init```
 
+### output
 ```
 Initializing the backend...
 
@@ -83,6 +84,8 @@ commands will detect it and remind you to do so if necessary.
 ## Check out Terraform plan
 
 ```terraform plan```
+
+### output
 
 ```
 Terraform used the selected providers to generate the following execution plan. Resource actions are indicated with the following
@@ -118,23 +121,3 @@ Note: You didn't use the -out option to save this plan, so Terraform can't guara
 ```terraform state list```
 
 ```terraform state```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
